@@ -1,0 +1,50 @@
+{
+    "subdialect": "Jiao-Liao",
+    "model_name": "Qwen3-Omni-30B-A3B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 48174.516835689545,
+    "runs": 4,
+    "prompts": {
+        "careless_conscientious": {
+            "path": "careless_conscientious.txt",
+            "total_time_sec": 0.2808041572570801
+        },
+        "closed-minded_open-minded": {
+            "path": "closed-minded_open-minded.txt",
+            "total_time_sec": 0.2880897521972656
+        },
+        "competent_incompetent": {
+            "path": "competent_incompetent.txt",
+            "total_time_sec": 0.2939901351928711
+        },
+        "friendly_unfriendly": {
+            "path": "friendly_unfriendly.txt",
+            "total_time_sec": 3853.8055951595306
+        },
+        "hardworking_lazy": {
+            "path": "hardworking_lazy.txt",
+            "total_time_sec": 10929.335373163223
+        },
+        "rural_urban": {
+            "path": "rural_urban.txt",
+            "total_time_sec": 0.33417510986328125
+        },
+        "temperamental_calm": {
+            "path": "temperamental_calm.txt",
+            "total_time_sec": 1895.7282700538635
+        },
+        "trustworthy_untrustworthy": {
+            "path": "trustworthy_untrustworthy.txt",
+            "total_time_sec": 8616.00052523613
+        },
+        "uneducated_educated": {
+            "path": "uneducated_educated.txt",
+            "total_time_sec": 12985.140252828598
+        },
+        "warm_cold": {
+            "path": "warm_cold.txt",
+            "total_time_sec": 9893.216097831726
+        }
+    }
+}

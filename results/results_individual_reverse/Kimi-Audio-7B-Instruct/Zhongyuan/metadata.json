@@ -1,0 +1,50 @@
+{
+    "subdialect": "Zhongyuan",
+    "model_name": "Kimi-Audio-7B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 12056.768792629242,
+    "runs": 2,
+    "prompts": {
+        "careless_conscientious": {
+            "path": "careless_conscientious.txt",
+            "total_time_sec": 1252.401525259018
+        },
+        "closed-minded_open-minded": {
+            "path": "closed-minded_open-minded.txt",
+            "total_time_sec": 1298.9639801979065
+        },
+        "competent_incompetent": {
+            "path": "competent_incompetent.txt",
+            "total_time_sec": 1137.3975138664246
+        },
+        "friendly_unfriendly": {
+            "path": "friendly_unfriendly.txt",
+            "total_time_sec": 964.6856596469879
+        },
+        "hardworking_lazy": {
+            "path": "hardworking_lazy.txt",
+            "total_time_sec": 1364.8234059810638
+        },
+        "rural_urban": {
+            "path": "rural_urban.txt",
+            "total_time_sec": 1266.4261770248413
+        },
+        "temperamental_calm": {
+            "path": "temperamental_calm.txt",
+            "total_time_sec": 1350.8286201953888
+        },
+        "trustworthy_untrustworthy": {
+            "path": "trustworthy_untrustworthy.txt",
+            "total_time_sec": 1240.453446149826
+        },
+        "uneducated_educated": {
+            "path": "uneducated_educated.txt",
+            "total_time_sec": 1086.2113854885101
+        },
+        "warm_cold": {
+            "path": "warm_cold.txt",
+            "total_time_sec": 1094.5362994670868
+        }
+    }
+}

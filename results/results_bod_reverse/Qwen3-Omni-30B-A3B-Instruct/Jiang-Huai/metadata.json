@@ -1,0 +1,14 @@
+{
+    "subdialect": "Jiang-Huai",
+    "model_name": "Qwen3-Omni-30B-A3B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 16813.848428964615,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 16813.832703351974
+        }
+    }
+}

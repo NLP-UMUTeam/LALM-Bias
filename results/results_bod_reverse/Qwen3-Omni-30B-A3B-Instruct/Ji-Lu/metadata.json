@@ -1,0 +1,14 @@
+{
+    "subdialect": "Ji-Lu",
+    "model_name": "Qwen3-Omni-30B-A3B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 16424.071474313736,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 16424.054490566254
+        }
+    }
+}

@@ -1,0 +1,1 @@
+Transcribe the previous Chinese audio into Chinese plain text.

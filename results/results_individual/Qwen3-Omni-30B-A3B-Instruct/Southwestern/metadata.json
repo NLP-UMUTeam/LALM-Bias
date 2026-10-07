@@ -1,0 +1,50 @@
+{
+    "subdialect": "Southwestern",
+    "model_name": "Qwen3-Omni-30B-A3B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 105858.69608521461,
+    "runs": 2,
+    "prompts": {
+        "careless_conscientious": {
+            "path": "careless_conscientious.txt",
+            "total_time_sec": 9244.325531244278
+        },
+        "closed-minded_open-minded": {
+            "path": "closed-minded_open-minded.txt",
+            "total_time_sec": 10521.997714996338
+        },
+        "competent_incompetent": {
+            "path": "competent_incompetent.txt",
+            "total_time_sec": 10692.00103354454
+        },
+        "friendly_unfriendly": {
+            "path": "friendly_unfriendly.txt",
+            "total_time_sec": 8968.898962259293
+        },
+        "hardworking_lazy": {
+            "path": "hardworking_lazy.txt",
+            "total_time_sec": 10600.379034280777
+        },
+        "rural_urban": {
+            "path": "rural_urban.txt",
+            "total_time_sec": 14397.77387881279
+        },
+        "temperamental_calm": {
+            "path": "temperamental_calm.txt",
+            "total_time_sec": 9228.448508739471
+        },
+        "trustworthy_untrustworthy": {
+            "path": "trustworthy_untrustworthy.txt",
+            "total_time_sec": 8855.8091776371
+        },
+        "uneducated_educated": {
+            "path": "uneducated_educated.txt",
+            "total_time_sec": 13542.651778697968
+        },
+        "warm_cold": {
+            "path": "warm_cold.txt",
+            "total_time_sec": 9806.36092376709
+        }
+    }
+}

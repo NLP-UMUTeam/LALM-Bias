@@ -1,0 +1,14 @@
+{
+    "subdialect": "Beijing",
+    "model_name": "Qwen3-Omni-30B-A3B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 16385.29272699356,
+    "runs": 2,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 16384.905565977097
+        }
+    }
+}

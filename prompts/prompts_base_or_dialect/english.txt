@@ -1,0 +1,7 @@
+Listen to the recording.
+
+Is the speaker using standard Mandarin or a regional variety?
+
+Respond using exactly this format:
+Answer: < standard or regional >
+Reasoning: < brief explanation >

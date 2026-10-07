@@ -1,0 +1,14 @@
+{
+    "subdialect": "Lan-Yin",
+    "model_name": "Kimi-Audio-7B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 1765.87948179245,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 1765.841435432434
+        }
+    }
+}

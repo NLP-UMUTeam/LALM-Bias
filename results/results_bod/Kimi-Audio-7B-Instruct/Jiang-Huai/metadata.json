@@ -1,0 +1,14 @@
+{
+    "subdialect": "Jiang-Huai",
+    "model_name": "Kimi-Audio-7B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 1618.2352783679962,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 1618.1932382583618
+        }
+    }
+}

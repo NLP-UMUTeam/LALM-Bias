@@ -1,0 +1,14 @@
+{
+    "subdialect": "Ji-Lu",
+    "model_name": "Phi-4-multimodal-instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 1292.411940574646,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 1292.3927910327911
+        }
+    }
+}

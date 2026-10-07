@@ -1,0 +1,14 @@
+{
+    "subdialect": "Zhongyuan",
+    "model_name": "Kimi-Audio-7B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 601.1682267189026,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 601.0983371734619
+        }
+    }
+}

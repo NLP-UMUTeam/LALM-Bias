@@ -1,0 +1,14 @@
+{
+    "subdialect": "Southwestern",
+    "model_name": "Kimi-Audio-7B-Instruct",
+    "quantization_config": "none",
+    "num_samples": 846,
+    "total_experiment_time_sec": 598.7992784976959,
+    "runs": 1,
+    "prompts": {
+        "english": {
+            "path": "english.txt",
+            "total_time_sec": 598.7463004589081
+        }
+    }
+}
