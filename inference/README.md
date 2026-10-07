@@ -49,7 +49,7 @@ system prompt. Shared settings are seed `42` and `max_new_tokens=512`.
 | Audio generation | Talker disabled | Not applicable | Disabled through text-only output |
 | Input interface | Official chat template | Native multimodal format | Official message format |
 | Framework | Transformers `5.6.2` | Transformers `4.48.2` | Official Kimi-Audio inference code |
-| Precision | `bfloat16` | `bfloat16` | Model default |
+| Precision | `bfloat16` | `bfloat16` | `bfloat16` |
 
 > **Reproducibility note:** the Qwen3-Omni and Phi-4 loaders pin the revisions
 > listed above. `KimiAudio` does not expose a revision parameter. To reproduce
